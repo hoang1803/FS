@@ -8,7 +8,7 @@ public class FS {
         diskList.add(new Disk(name, volume));
     }
 
-    public static void addDist(Disk disk) {
+    public static void addDisk(Disk disk) {
         diskList.add(disk);
     }
 
